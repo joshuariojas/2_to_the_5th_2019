@@ -27,4 +27,4 @@ function Run-BasicPipeline {
   }
 }
 
-@(1, 2, 3, 4, 5) | Run-BasicPipeline -Verbose`
+@(1, 2, 3, 4, 5) | Run-BasicPipeline -Verbose
